@@ -4,7 +4,7 @@ import telebot
 # Токен вашего Telegram-бота
 TOKEN = '6233704086:AAFPlG8nYq9S-KDZ99uFE3U32vfhwJE2aD0'
 # Токен API Giphy
-GIPHY_TOKEN = 'diKrGHs6MeiY0Qz3StpV08hezrB2B2pz'
+GIPHY_TOKEN = 'nDpusQd46ajMJHV0EC3omRa2EWdvokhE'
 
 # Инициализация бота
 bot = telebot.TeleBot(TOKEN)
